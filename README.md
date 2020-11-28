@@ -1,1 +1,1 @@
-# OneClick
+# OpenMultiApps
